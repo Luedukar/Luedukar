@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me:
 Sou Desenvolvedor Full Stack com experiência prática em ambiente corporativo, atuando no desenvolvimento de aplicações, manipulação de dados e suporte a sistemas.<br><br>Tenho experiência com JavaScript, PHP, SQL, Python, HTML e CSS, buscando sempre criar soluções funcionais, organizadas e eficientes. Atualmente, estou expandindo meus conhecimentos em JavaScript moderno, explorando tecnologias como Node.js e React.js.<br><br>Gosto muito da utilização de serviços em nuvem (principalmente Oracle e AWS) e busco sempre uma maneira de implementar em meus projetos (banco de dados, VMs, hospedagem).<br><br>Cursando Engenharia de Software (ultimo ano), mantenho uma busca constante por evolução técnica e aprendizado contínuo, sempre motivado por novos desafios e oportunidades de crescimento na área de tecnologia.
 
 
